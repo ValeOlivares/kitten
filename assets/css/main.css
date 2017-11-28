@@ -1,0 +1,16 @@
+body{
+	margin:0 auto;
+}
+.wallpaper{
+  background-image: url(../img/dawn.png);
+  background-size: cover;
+  height: 45em;
+  }
+
+.largeKitten{
+  text-align: center;
+}
+
+.largekittenImg{
+  margin-top: 25em; 
+}
